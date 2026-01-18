@@ -51,5 +51,5 @@ Then sentiment is analyzed and sentiment graph and word cloud is generated.
 Social Network Analysis
 
 ### NB:
-1. After the sentimet analysis we must see how exactly every comment is classified as positive, neurtral or negative manually to see the efficiency of our work, as ambuigity in classification is a serious challenge in NLP specially in amharic language as NLP corpus dataset in largely isufficient and modules needed to be eveloped.
+1. After the sentimet analysis we must see how exactly every comment is classified as positive, neurtral or negative manually to see the efficiency of our work, as ambuigity in classification is a serious challenge in NLP specially in amharic language as NLP corpus dataset in largely insufficient and modules/classes needed to be developed for python to make it easier for amharic texts analysis.
 2. The video comment we used was selected because of it's large amount of comments in it, there is no any political interest in it.
