@@ -10,7 +10,7 @@ In this stage, I have extracted 57384 Youtube comments from biggest Media outlet
 
 ## Step 2 - Loading and Pre-processing
 
-## Step 3 - SENTIMENT GENERATION 
+## Step 3 - Sentiment Generation
 Used Pretrained Model named VADER which is great for Social Media Text, and clsifies comments as neutral, positive and negative.
 
 ## Step 4 - Topic Modeling 
